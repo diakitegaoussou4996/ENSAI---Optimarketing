@@ -1,0 +1,2 @@
+# ENSAI - Optimarketing
+ Ce projet examine les défis et stratégies des entreprises dans l'ère numérique, où l'afflux d'informations et la concurrence accrue rendent difficile l'attraction des clients. Il se concentre sur l'importance du marketing digital et des campagnes publicitaires visant à augmenter les taux de conversion. L'objectif est de comprendre les réactions des consommateurs et les facteurs influençant leur engagement et décisions d'achat, essentiels pour réussir dans un marché en ligne saturé.
